@@ -1,0 +1,138 @@
+[
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\AC_Attribute.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\AC_Attribute.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\AC_Inventory.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\AC_Inventory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\AC_Use.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\AC_Use.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\BaseActor_Use.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\BaseActor_Use.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\BaseActor_Use_Inspector.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\BaseActor_Use_Inspector.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\Base_DropItem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\Base_DropItem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\CayNa.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\CayNa.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\Summer_Vacation.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\Summer_Vacation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\SummerVacation_Project\\Source\\Summer_Vacation\\Summer_Vacation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\SummerVacation_Project\\.vscode\\compileCommands_Summer_Vacation\\Summer_Vacation.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
