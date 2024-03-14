@@ -8,7 +8,8 @@ public class Summer_Vacation : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "GameplayTags", "SlateCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore","HeadMountedDisplay","AIModule","GameplayCameras",
+			"GameplayTags", "SlateCore" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
